@@ -1,0 +1,6 @@
+{
+  "name": "VITA MINI — Medical Microrobotics Live Simulator",
+  "description": "Target Precisely. Treat Locally. Retrieve Completely. Conceptual research platform and live interactive simulator for sub-millimeter medical microrobotics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
